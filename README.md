@@ -1,2 +1,6 @@
 # EDS124BR Teaching Portfolio
-**Explain Your Code** - Alonzo Draws a House: https://youtu.be/4VvIFgvrD_c
+**WEEK 1** \
+Explain Your Code - Alonzo Draws a House: https://youtu.be/4VvIFgvrD_c
+
+**WEEK 2** \
+Show What You Know - Repeats: https://youtu.be/CllJrIE2Y0g
