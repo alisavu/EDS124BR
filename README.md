@@ -4,4 +4,9 @@ Explain Your Code - Alonzo Draws a House: https://youtu.be/4VvIFgvrD_c
 
 **WEEK 2** \
 Show What You Know - Repeats: https://youtu.be/CllJrIE2Y0g \
-Repeat Animal Parade: https://youtu.be/b9dCSgJIByU
+Repeat Animal Parade: https://youtu.be/b9dCSgJIByU 
+
+**WEEK 3** \
+Nested Repeats: https://youtu.be/R7rm7Xt1wxs 
+
+
