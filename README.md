@@ -12,3 +12,6 @@ Events: https://youtu.be/fP1yu-hh3k4
 
 **WEEK 4** \
 Variables: https://youtu.be/RF6uNN2cpWM
+
+**WEEK 5** \
+Condtional Loops: https://youtu.be/thQn8dUW3XY
