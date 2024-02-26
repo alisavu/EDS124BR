@@ -18,3 +18,6 @@ Condtional Loops: https://youtu.be/thQn8dUW3XY
 
 **WEEK 6** \
 If Statements: https://youtu.be/rMCHAOnAs6w
+
+**WEEK 7 ** \
+Nested If Else: https://youtu.be/K8WvVp6xSu8
